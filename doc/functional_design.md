@@ -1,5 +1,5 @@
 ### Use Case Characterization ###
-The Nitrogenous Fate Software uses metabolite data of isotopically-labeled molecules (Nitrite, Ammonia, etc.) through incubations from samples in the equatorial Pacific to show pathways of isotopically labeled nitrogen within communities through simple data visualization.
+The Nitrogenous Fate Software uses metabolite data of isotopically-labeled molecules (Nitrite, Ammonia, and Urea) through incubations from samples in the Equatorial Pacific to show pathways of nitrogen within communities through simple data visualization.
 Identified Users included:
 * Research Scientist (Marine Biologist)
 * Research Scientist (Generic)
@@ -17,6 +17,10 @@ Identified Users included:
 || Input Data Set | User provides _acceptable_ data set | Display: 'File accepted' |
 ||| User provides _unacceptable_ data set | Display: 'File not accepted, please check file type'; return to Input Data Set 'Upload file'|
 || Data Set Processing | User adjusts parameter-based settings and other analysis configurations. Default options are set for basic users. | Display parameter-based settings configuration panel; Display button: 'Confirm settings and run analysis' |
+||| _Section I: Data Cleaning and Organization_ |  |
+||| _Section II:  Parameter Setting_ |  |
+||| _Section III: Best Matched Internal Standard Normalization_ |  |
+||| _Section IV: Quantification_ |  |
 ||| Data analysis encounters an error | Display: 'Error occured. Please check log file.' |
 ||| Download Log File for error | Display button: 'Download log file'; display button: 'try new data set', return to 'Upload File'; display button: 'try new customization', return to _Run Program_ function; Display button: 'Send error log and provide feedback', send to _User Feedback_ function |
 ||| Data analysis is successful | Display: 'Analysis completed' and show summary of results; Display button: 'Download analysis'; Display button: 'Download Visualizations'; Display button: 'Download entire results package (compressed file)' |
