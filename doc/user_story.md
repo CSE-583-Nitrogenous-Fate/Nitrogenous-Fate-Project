@@ -1,6 +1,7 @@
 ### User Characterization for NF Software ### 
 The Nitrogenous Fate Software uses metabolite data of isotopically-labeled molecules (Nitrite, Ammonia, and Urea) through incubations from samples in the Equatorial Pacific to show pathways of nitrogen within communities through simple data visualization.
 
+=======
 | User               | Needs and Desires  | Skill Level        | Use Cases          |
 |--------------------|--------------------|--------------------|--------------------|
 | Research Scientist (Marine Biologist) | Track isotopically-labeled Nitrogen within marine communities. Desires a simple yet parameter-configurable interface with multiple options for visualization. | Highly skilled scientist who is familiar with basic data science tools | Run program as is
