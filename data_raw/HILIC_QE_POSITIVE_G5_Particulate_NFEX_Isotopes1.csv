@@ -599,25 +599,25 @@ L-Glutamic acid,230810_Smp_G5_NFEX_T24_NO3_Metab_C,"L-Glutamic acid 1(15N), 1(13
 L-Glutamic acid,230810_Smp_G5_NFEX_T24_Urea_Metab_A,"L-Glutamic acid 1(15N), 1(13C)",12.06,1124765,0,104308,-2,L-Glutamic acid
 L-Glutamic acid,230810_Smp_G5_NFEX_T24_Urea_Metab_B,"L-Glutamic acid 1(15N), 1(13C)",12.04,1594600,0,130516,-2,L-Glutamic acid
 L-Glutamic acid,230810_Smp_G5_NFEX_T24_Urea_Metab_C,"L-Glutamic acid 1(15N), 1(13C)",12.04,3040013,0,284910,-2.5,L-Glutamic acid
-Glycine betaine,230810_Std_4uMStdsMix1InH2O_1,"Glycine betaine 0(15N), 0(13C)",7.29,300313,2269493,45339,-2.5,Glycine betaine
-Glycine betaine,230810_Std_4uMStdsMix1InH2O_2,"Glycine betaine 0(15N), 0(13C)",7.47,371979,3238911,53421,-2.4,Glycine betaine
-Glycine betaine,230810_Std_4uMStdsMix1InH2O_3,"Glycine betaine 0(15N), 0(13C)",7.24,318263,1538959,52048,-2.7,Glycine betaine
-Glycine betaine,230810_Std_4uMStdsMix1InMatrix_1,"Glycine betaine 0(15N), 0(13C)",7.27,315657,1404789,84514,-2.3,Glycine betaine
-Glycine betaine,230810_Std_4uMStdsMix1InMatrix_2,"Glycine betaine 0(15N), 0(13C)",7.04,781636,2566738,64397,-2.4,Glycine betaine
-Glycine betaine,230810_Std_4uMStdsMix1InMatrix_3,"Glycine betaine 0(15N), 0(13C)",7.38,679051,1889016,86540,-2,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix1InH2O_1,"Glycine betaine 0(15N), 0(13C)",8.81,53995532,8324402,4716268,-2.1,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix1InH2O_2,"Glycine betaine 0(15N), 0(13C)",8.72,57044316,11166603,5309049,-2.2,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix1InH2O_3,"Glycine betaine 0(15N), 0(13C)",8.45,68687640,7327423,5246154,-2.2,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix1InMatrix_1,"Glycine betaine 0(15N), 0(13C)",7.79,1727633408,53696456,125543264,-2,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix1InMatrix_2,"Glycine betaine 0(15N), 0(13C)",7.78,1450874496,27001234,111451296,-2.1,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix1InMatrix_3,"Glycine betaine 0(15N), 0(13C)",7.8,1424856832,22710950,110724048,-1.7,Glycine betaine
 Glycine betaine,230810_Std_4uMStdsMix2InH2O_1,"Glycine betaine 0(15N), 0(13C)",7.81,1795715200,31570610,130487336,-2.1,Glycine betaine
 Glycine betaine,230810_Std_4uMStdsMix2InH2O_2,"Glycine betaine 0(15N), 0(13C)",7.79,1852218368,29846088,133831384,-2.5,Glycine betaine
-Glycine betaine,230810_Std_4uMStdsMix2InH2O_3,"Glycine betaine 0(15N), 0(13C)",7.39,307995,1386839,82238,-2.5,Glycine betaine
+Glycine betaine,230810_Std_4uMStdsMix2InH2O_3,"Glycine betaine 0(15N), 0(13C)",7.78,1688234624,27662712,118196624,-2,Glycine betaine
 Glycine betaine,230810_Std_4uMStdsMix2InMatrix_1,"Glycine betaine 0(15N), 0(13C)",7.81,3311556352,42008608,257441936,-2.4,Glycine betaine
 Glycine betaine,230810_Std_4uMStdsMix2InMatrix_2,"Glycine betaine 0(15N), 0(13C)",7.81,3288509440,44180760,233018208,-2.1,Glycine betaine
 Glycine betaine,230810_Std_4uMStdsMix2InMatrix_3,"Glycine betaine 0(15N), 0(13C)",7.78,3359196416,55768900,247511008,-2,Glycine betaine
 Glycine betaine,230810_Std_H2OinMatrix_1,"Glycine betaine 0(15N), 0(13C)",7.76,2043442688,28045310,151947840,-2.4,Glycine betaine
 Glycine betaine,230810_Std_H2OinMatrix_2,"Glycine betaine 0(15N), 0(13C)",7.8,1617281152,24448342,118755928,-2.1,Glycine betaine
 Glycine betaine,230810_Std_H2OinMatrix_3,"Glycine betaine 0(15N), 0(13C)",7.76,1606880256,23845092,115114064,-2.7,Glycine betaine
-Glycine betaine,230810_Blk_G5_NFEX_T24_NH4_Blk_A,"Glycine betaine 0(15N), 0(13C)",7.5,1157228,3399150,109583,-2.3,Glycine betaine
-Glycine betaine,230810_Blk_G5_NFEX_T24_NH4_Blk_B,"Glycine betaine 0(15N), 0(13C)",7.56,2424353,3774236,403586,-2.3,Glycine betaine
-Glycine betaine,230810_Blk_G5_NFEX_T24_NO3_Blk_A,"Glycine betaine 0(15N), 0(13C)",7.46,1107106,3726594,91749,-2.3,Glycine betaine
-Glycine betaine,230810_Blk_G5_NFEX_T24_Urea_Blk_A,"Glycine betaine 0(15N), 0(13C)",7.46,1290928,5666643,131462,-2,Glycine betaine
+Glycine betaine,230810_Blk_G5_NFEX_T24_NH4_Blk_A,"Glycine betaine 0(15N), 0(13C)",7.8,62985116,9285845,5273919,-1.7,Glycine betaine
+Glycine betaine,230810_Blk_G5_NFEX_T24_NH4_Blk_B,"Glycine betaine 0(15N), 0(13C)",7.78,93630984,7045077,7376996,-2.1,Glycine betaine
+Glycine betaine,230810_Blk_G5_NFEX_T24_NO3_Blk_A,"Glycine betaine 0(15N), 0(13C)",7.78,81107352,8584523,6463617,-2.1,Glycine betaine
+Glycine betaine,230810_Blk_G5_NFEX_T24_Urea_Blk_A,"Glycine betaine 0(15N), 0(13C)",7.81,212362080,10251496,16857296,-1.8,Glycine betaine
 Glycine betaine,230810_Poo_G5_NFEX_Full1,"Glycine betaine 0(15N), 0(13C)",7.78,2644737536,36330048,186337568,-2.4,Glycine betaine
 Glycine betaine,230810_Poo_G5_NFEX_Full2,"Glycine betaine 0(15N), 0(13C)",7.82,3206946560,55839844,245352496,-1.7,Glycine betaine
 Glycine betaine,230810_Poo_G5_NFEX_Full3,"Glycine betaine 0(15N), 0(13C)",7.79,2466749440,31420668,183151312,-2.5,Glycine betaine
@@ -634,7 +634,7 @@ Glycine betaine,230810_Smp_G5_NFEX_T0_Metab_B,"Glycine betaine 0(15N), 0(13C)",7
 Glycine betaine,230810_Smp_G5_NFEX_T0_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.82,5126711296,82255936,355035392,-2.1,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T6_NH4_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.77,2424187648,35405940,173152016,-2.7,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T6_NH4_Metab_B,"Glycine betaine 0(15N), 0(13C)",7.78,2905317120,33652236,218284256,-2.4,Glycine betaine
-Glycine betaine,230810_Smp_G5_NFEX_T6_NH4_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.3,75755,410311,62416,-2.6,Glycine betaine
+Glycine betaine,230810_Smp_G5_NFEX_T6_NH4_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.84,2876896000,50035888,203436224,-2.3,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T6_NO3_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.78,2915152384,38878584,213090768,-2.9,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T6_NO3_Metab_B,"Glycine betaine 0(15N), 0(13C)",7.8,2493400064,35097260,185212256,-1.8,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T6_NO3_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.82,3219306496,51153048,229917216,-2.5,Glycine betaine
@@ -650,10 +650,10 @@ Glycine betaine,230810_Smp_G5_NFEX_T12_NO3_Metab_C,"Glycine betaine 0(15N), 0(13
 Glycine betaine,230810_Smp_G5_NFEX_T12_Urea_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.81,3110155776,51308196,224509520,-2.5,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T12_Urea_Metab_B,"Glycine betaine 0(15N), 0(13C)",7.79,2731729664,46609812,201719408,-2,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T12_Urea_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.81,3913349376,57602080,284343296,-1.6,Glycine betaine
-Glycine betaine,230810_Smp_G5_NFEX_T24_NH4_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.26,3541431,2687166,127257,-2.8,Glycine betaine
+Glycine betaine,230810_Smp_G5_NFEX_T24_NH4_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.8,1988539392,28432312,147387168,-2.7,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T24_NH4_Metab_B,"Glycine betaine 0(15N), 0(13C)",7.78,1957502976,39237452,144867712,-1.8,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T24_NH4_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.8,2103281280,31262242,164115584,-1.7,Glycine betaine
-Glycine betaine,230810_Smp_G5_NFEX_T24_NO3_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.38,597298,1280151,105509,-2.6,Glycine betaine
+Glycine betaine,230810_Smp_G5_NFEX_T24_NO3_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.77,2462105856,36630000,176115200,-2.5,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T24_NO3_Metab_B,"Glycine betaine 0(15N), 0(13C)",7.81,2448636672,34715496,181664816,-2.1,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T24_NO3_Metab_C,"Glycine betaine 0(15N), 0(13C)",7.8,2671509760,40539980,192474576,-2.4,Glycine betaine
 Glycine betaine,230810_Smp_G5_NFEX_T24_Urea_Metab_A,"Glycine betaine 0(15N), 0(13C)",7.78,2366303232,31212552,173545328,-2.2,Glycine betaine
@@ -1080,20 +1080,20 @@ Homarine,230810_Smp_G5_NFEX_T24_Urea_Metab_A,"Homarine 1(15N), 1(13C)",6.02,3205
 Homarine,230810_Smp_G5_NFEX_T24_Urea_Metab_B,"Homarine 1(15N), 1(13C)",6.06,4157844,0,236054,-2.9,Homarine
 Homarine,230810_Smp_G5_NFEX_T24_Urea_Metab_C,"Homarine 1(15N), 1(13C)",6.09,5454369,0,278962,-3.3,Homarine
 Guanine,230810_Std_4uMStdsMix1InH2O_1,"Guanine 0(15N), 0(13C)",7.74,1680233,0,398679,-16.7,Guanine
-Guanine,230810_Std_4uMStdsMix1InH2O_2,"Guanine 0(15N), 0(13C)",7.56,3536709,0,377997,-17.4,Guanine
+Guanine,230810_Std_4uMStdsMix1InH2O_2,"Guanine 0(15N), 0(13C)",7.56,859657,573202,273247,-16.5,Guanine
 Guanine,230810_Std_4uMStdsMix1InH2O_3,"Guanine 0(15N), 0(13C)",7.18,4777086,0,425538,-19.5,Guanine
-Guanine,230810_Std_4uMStdsMix1InMatrix_1,"Guanine 0(15N), 0(13C)",7.82,2546989,0,312056,-6.9,Guanine
+Guanine,230810_Std_4uMStdsMix1InMatrix_1,"Guanine 0(15N), 0(13C)",8.75,35593988,0,2875354,-2.4,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_2,"Guanine 0(15N), 0(13C)",8.77,15719117,0,1308201,-2.8,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_3,"Guanine 0(15N), 0(13C)",8.77,27083288,0,2262728,-2.1,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_1,"Guanine 0(15N), 0(13C)",7.94,316621248,3754382,19175244,-2.7,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_2,"Guanine 0(15N), 0(13C)",7.91,262748880,3111093,15883911,-3,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_3,"Guanine 0(15N), 0(13C)",7.92,343722720,3605102,20583078,-2.4,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_1,"Guanine 0(15N), 0(13C)",7.99,260989872,3764060,18286168,-2.9,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_2,"Guanine 0(15N), 0(13C)",7.94,320266592,3858520,20863812,-2.5,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 0(15N), 0(13C)",7.92,382806496,4000951,24837520,-2.5,Guanine
-Guanine,230810_Std_H2OinMatrix_1,"Guanine 0(15N), 0(13C)",7.97,1720946,0,139411,-2.4,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_1,"Guanine 0(15N), 0(13C)",8.75,216772832,18073672,17644234,-3,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_2,"Guanine 0(15N), 0(13C)",8.77,181021520,14498235,14598351,-3,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_3,"Guanine 0(15N), 0(13C)",8.72,199271776,14631534,15990824,-2.4,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_1,"Guanine 0(15N), 0(13C)",8.77,181944560,10990364,15026308,-2.7,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_2,"Guanine 0(15N), 0(13C)",8.77,153300400,15481866,11822792,-2.6,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 0(15N), 0(13C)",8.76,247740096,20399888,20636498,-2.8,Guanine
+Guanine,230810_Std_H2OinMatrix_1,"Guanine 0(15N), 0(13C)",8.77,42725488,550943,3491933,-3,Guanine
 Guanine,230810_Std_H2OinMatrix_2,"Guanine 0(15N), 0(13C)",8.76,18127630,0,1458723,-2.7,Guanine
-Guanine,230810_Std_H2OinMatrix_3,"Guanine 0(15N), 0(13C)",7.91,1388012,0,105648,-2.7,Guanine
+Guanine,230810_Std_H2OinMatrix_3,"Guanine 0(15N), 0(13C)",8.76,34669968,535758,2831488,-3.4,Guanine
 Guanine,230810_Blk_G5_NFEX_T24_NH4_Blk_A,"Guanine 0(15N), 0(13C)",8.82,733499,0,74413,-2,Guanine
 Guanine,230810_Blk_G5_NFEX_T24_NH4_Blk_B,"Guanine 0(15N), 0(13C)",8.76,631934,0,70711,-2.2,Guanine
 Guanine,230810_Blk_G5_NFEX_T24_NO3_Blk_A,"Guanine 0(15N), 0(13C)",8.78,746171,0,73284,-2.3,Guanine
@@ -1101,56 +1101,56 @@ Guanine,230810_Blk_G5_NFEX_T24_Urea_Blk_A,"Guanine 0(15N), 0(13C)",8.74,1530141,
 Guanine,230810_Poo_G5_NFEX_Full1,"Guanine 0(15N), 0(13C)",8.76,38581512,416453,3061277,-2.7,Guanine
 Guanine,230810_Poo_G5_NFEX_Full2,"Guanine 0(15N), 0(13C)",8.77,37869492,0,2957368,-2.1,Guanine
 Guanine,230810_Poo_G5_NFEX_Full3,"Guanine 0(15N), 0(13C)",8.77,25292414,0,1991308,-3.1,Guanine
-Guanine,230810_Poo_G5_NFEX_Full4,"Guanine 0(15N), 0(13C)",7.96,1099686,0,108820,-1.9,Guanine
-Guanine,230810_Poo_G5_NFEX_Full5,"Guanine 0(15N), 0(13C)",8,782042,0,85123,-2.2,Guanine
+Guanine,230810_Poo_G5_NFEX_Full4,"Guanine 0(15N), 0(13C)",8.78,33761524,0,2892530,-2.3,Guanine
+Guanine,230810_Poo_G5_NFEX_Full5,"Guanine 0(15N), 0(13C)",8.78,28007616,0,2220307,-2.9,Guanine
 Guanine,230810_Poo_G5_NFEX_Full6,"Guanine 0(15N), 0(13C)",8.78,25038504,261078,2292962,-2.4,Guanine
 Guanine,230810_Poo_G5_NFEX_Full7,"Guanine 0(15N), 0(13C)",8.75,26351974,0,2198615,-2.5,Guanine
-Guanine,230810_Poo_G5_NFEX_Full8,"Guanine 0(15N), 0(13C)",7.89,1591882,0,137103,-2.3,Guanine
-Guanine,230810_Poo_G5_NFEX_Full9,"Guanine 0(15N), 0(13C)",7.9,2188758,0,173468,-2.3,Guanine
-Guanine,230810_Poo_G5_NFEX_Full10,"Guanine 0(15N), 0(13C)",7.87,2530012,0,170470,-2.3,Guanine
-Guanine,230810_Poo_G5_NFEX_Full11,"Guanine 0(15N), 0(13C)",7.97,2258663,0,188989,-2.4,Guanine
-Guanine,230810_Smp_G5_NFEX_T0_Metab_A,"Guanine 0(15N), 0(13C)",7.99,9116522,0,532664,-1.9,Guanine
-Guanine,230810_Smp_G5_NFEX_T0_Metab_B,"Guanine 0(15N), 0(13C)",8.02,6186173,0,484611,-2.3,Guanine
-Guanine,230810_Smp_G5_NFEX_T0_Metab_C,"Guanine 0(15N), 0(13C)",8,8525203,0,577693,-2,Guanine
-Guanine,230810_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 0(15N), 0(13C)",7.93,1146238,0,113550,-2.7,Guanine
-Guanine,230810_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 0(15N), 0(13C)",7.93,1511534,0,138471,-2.2,Guanine
-Guanine,230810_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 0(15N), 0(13C)",7.94,1489018,0,133102,-2,Guanine
-Guanine,230810_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 0(15N), 0(13C)",7.95,1641591,0,149546,-2.7,Guanine
+Guanine,230810_Poo_G5_NFEX_Full8,"Guanine 0(15N), 0(13C)",8.76,26888924,221238,2196365,-2.5,Guanine
+Guanine,230810_Poo_G5_NFEX_Full9,"Guanine 0(15N), 0(13C)",8.76,33669444,0,2529522,-2.8,Guanine
+Guanine,230810_Poo_G5_NFEX_Full10,"Guanine 0(15N), 0(13C)",8.75,35094044,459314,2638707,-2.7,Guanine
+Guanine,230810_Poo_G5_NFEX_Full11,"Guanine 0(15N), 0(13C)",8.78,38510596,73260,3107402,-2.9,Guanine
+Guanine,230810_Smp_G5_NFEX_T0_Metab_A,"Guanine 0(15N), 0(13C)",8.8,104578520,1622792,8422925,-2.5,Guanine
+Guanine,230810_Smp_G5_NFEX_T0_Metab_B,"Guanine 0(15N), 0(13C)",8.77,98709744,2461628,8649060,-2.7,Guanine
+Guanine,230810_Smp_G5_NFEX_T0_Metab_C,"Guanine 0(15N), 0(13C)",8.77,101281376,541537,8437527,-2.5,Guanine
+Guanine,230810_Smp_G5_NFEX_T6_NH4_Metab_A,"Guanine 0(15N), 0(13C)",8.76,32721970,359172,2685640,-3,Guanine
+Guanine,230810_Smp_G5_NFEX_T6_NH4_Metab_B,"Guanine 0(15N), 0(13C)",8.76,46207264,643977,3686696,-2.5,Guanine
+Guanine,230810_Smp_G5_NFEX_T6_NH4_Metab_C,"Guanine 0(15N), 0(13C)",8.8,43572748,36209,3695103,-2.6,Guanine
+Guanine,230810_Smp_G5_NFEX_T6_NO3_Metab_A,"Guanine 0(15N), 0(13C)",8.75,26839800,364617,2110749,-3.1,Guanine
 Guanine,230810_Smp_G5_NFEX_T6_NO3_Metab_B,"Guanine 0(15N), 0(13C)",8.76,27617134,340355,2084134,-2.2,Guanine
-Guanine,230810_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 0(15N), 0(13C)",8,1644138,0,135706,-2.2,Guanine
+Guanine,230810_Smp_G5_NFEX_T6_NO3_Metab_C,"Guanine 0(15N), 0(13C)",8.77,56306024,365226,4761772,-2.7,Guanine
 Guanine,230810_Smp_G5_NFEX_T6_Urea_Metab_A,"Guanine 0(15N), 0(13C)",8.74,25106346,0,2095222,-2.6,Guanine
-Guanine,230810_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 0(15N), 0(13C)",7.93,1223453,0,108083,-3.3,Guanine
+Guanine,230810_Smp_G5_NFEX_T6_Urea_Metab_B,"Guanine 0(15N), 0(13C)",8.75,32673194,0,2618384,-3.7,Guanine
 Guanine,230810_Smp_G5_NFEX_T6_Urea_Metab_C,"Guanine 0(15N), 0(13C)",8.79,29840104,239651,2255926,-2.9,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 0(15N), 0(13C)",7.97,1551733,0,137572,-2.3,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 0(15N), 0(13C)",7.96,2074566,0,146757,-2,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 0(15N), 0(13C)",7.89,2410954,0,172051,-2.4,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_NH4_Metab_A,"Guanine 0(15N), 0(13C)",8.78,29372964,248144,2208038,-2.4,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_NH4_Metab_B,"Guanine 0(15N), 0(13C)",8.76,42654720,25874,3547554,-2.2,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_NH4_Metab_C,"Guanine 0(15N), 0(13C)",8.78,26251400,208388,1999294,-2.5,Guanine
 Guanine,230810_Smp_G5_NFEX_T12_NO3_Metab_A,"Guanine 0(15N), 0(13C)",8.78,38258376,384283,3190313,-2.4,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 0(15N), 0(13C)",7.96,660277,0,70899,-2.1,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 0(15N), 0(13C)",7.93,3416398,0,341164,-2.2,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 0(15N), 0(13C)",7.94,1365985,0,113514,-2.2,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 0(15N), 0(13C)",7.88,2688722,0,199707,-1.9,Guanine
-Guanine,230810_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 0(15N), 0(13C)",7.96,2143502,0,153565,-1.3,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_NO3_Metab_B,"Guanine 0(15N), 0(13C)",8.78,29825910,0,2759360,-2.7,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_NO3_Metab_C,"Guanine 0(15N), 0(13C)",8.78,37802320,416780,2965093,-2.6,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_Urea_Metab_A,"Guanine 0(15N), 0(13C)",8.77,47572680,62445,3823665,-3.1,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_Urea_Metab_B,"Guanine 0(15N), 0(13C)",8.76,24762744,0,1895513,-2.2,Guanine
+Guanine,230810_Smp_G5_NFEX_T12_Urea_Metab_C,"Guanine 0(15N), 0(13C)",8.77,49091660,177817,4156042,-1.8,Guanine
 Guanine,230810_Smp_G5_NFEX_T24_NH4_Metab_A,"Guanine 0(15N), 0(13C)",8.76,21405018,107758,1808393,-3.2,Guanine
 Guanine,230810_Smp_G5_NFEX_T24_NH4_Metab_B,"Guanine 0(15N), 0(13C)",8.75,26057428,0,1973111,-2.1,Guanine
 Guanine,230810_Smp_G5_NFEX_T24_NH4_Metab_C,"Guanine 0(15N), 0(13C)",8.78,30667006,383766,2613642,-2.5,Guanine
-Guanine,230810_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 0(15N), 0(13C)",7.91,492196,0,54800,-1.8,Guanine
+Guanine,230810_Smp_G5_NFEX_T24_NO3_Metab_A,"Guanine 0(15N), 0(13C)",8.75,30161702,0,2418255,-2.7,Guanine
 Guanine,230810_Smp_G5_NFEX_T24_NO3_Metab_B,"Guanine 0(15N), 0(13C)",8.76,43526116,0,4017513,-2.4,Guanine
-Guanine,230810_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 0(15N), 0(13C)",7.93,1513596,0,115532,-2.1,Guanine
+Guanine,230810_Smp_G5_NFEX_T24_NO3_Metab_C,"Guanine 0(15N), 0(13C)",8.75,41726420,0,3020342,-2.7,Guanine
 Guanine,230810_Smp_G5_NFEX_T24_Urea_Metab_A,"Guanine 0(15N), 0(13C)",8.78,29053824,317272,2380662,-2.7,Guanine
-Guanine,230810_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 0(15N), 0(13C)",7.89,1369816,0,110966,-2.1,Guanine
-Guanine,230810_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 0(15N), 0(13C)",7.9,2092981,0,197328,-2.7,Guanine
+Guanine,230810_Smp_G5_NFEX_T24_Urea_Metab_B,"Guanine 0(15N), 0(13C)",8.78,29675862,113852,2253519,-2.7,Guanine
+Guanine,230810_Smp_G5_NFEX_T24_Urea_Metab_C,"Guanine 0(15N), 0(13C)",8.78,46206456,67484,3599776,-3,Guanine
 Guanine,230810_Std_4uMStdsMix1InH2O_1,"Guanine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,Guanine
 Guanine,230810_Std_4uMStdsMix1InH2O_2,"Guanine 0(15N), 1(13C)",7.51,26376,0,17640,-7.6,Guanine
 Guanine,230810_Std_4uMStdsMix1InH2O_3,"Guanine 0(15N), 1(13C)",7.18,46569,0,17342,-12.8,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_1,"Guanine 0(15N), 1(13C)",8.78,1634816,0,154723,-2.5,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_2,"Guanine 0(15N), 1(13C)",8.81,595052,0,78151,-2.2,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_3,"Guanine 0(15N), 1(13C)",8.77,1082781,0,130755,-2,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_1,"Guanine 0(15N), 1(13C)",7.87,17251928,0,1071596,-2.5,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_2,"Guanine 0(15N), 1(13C)",7.93,13500016,0,868306,-2.8,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_3,"Guanine 0(15N), 1(13C)",7.9,18086512,0,1095202,-2.3,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_1,"Guanine 0(15N), 1(13C)",7.99,13743421,0,967708,-2.7,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_2,"Guanine 0(15N), 1(13C)",7.94,16826404,0,1082425,-2.5,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 0(15N), 1(13C)",7.9,20266380,0,1284809,-2.4,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_1,"Guanine 0(15N), 1(13C)",8.78,12038895,0,996233,-3,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_2,"Guanine 0(15N), 1(13C)",8.77,10192717,26571,813563,-3,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_3,"Guanine 0(15N), 1(13C)",8.73,11095427,94147,908670,-2.3,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_1,"Guanine 0(15N), 1(13C)",8.77,10373845,0,820891,-2.5,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_2,"Guanine 0(15N), 1(13C)",8.8,8904937,0,720756,-2.4,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 0(15N), 1(13C)",8.76,14357289,0,1098576,-2.8,Guanine
 Guanine,230810_Std_H2OinMatrix_1,"Guanine 0(15N), 1(13C)",8.78,2139590,0,192919,-3.1,Guanine
 Guanine,230810_Std_H2OinMatrix_2,"Guanine 0(15N), 1(13C)",8.75,792841,0,89547,-2.4,Guanine
 Guanine,230810_Std_H2OinMatrix_3,"Guanine 0(15N), 1(13C)",8.81,1714938,0,151815,-3.6,Guanine
@@ -1205,12 +1205,12 @@ Guanine,230810_Std_4uMStdsMix1InH2O_3,"Guanine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N
 Guanine,230810_Std_4uMStdsMix1InMatrix_1,"Guanine 1(15N), 0(13C)",8.8,2553551,0,266091,-2.4,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_2,"Guanine 1(15N), 0(13C)",8.75,888645,0,93887,-2.7,Guanine
 Guanine,230810_Std_4uMStdsMix1InMatrix_3,"Guanine 1(15N), 0(13C)",8.8,1811981,0,189227,-2.1,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_1,"Guanine 1(15N), 0(13C)",7.87,5151279,0,358918,-1.5,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_2,"Guanine 1(15N), 0(13C)",7.9,4358315,0,309557,-1.9,Guanine
-Guanine,230810_Std_4uMStdsMix2InH2O_3,"Guanine 1(15N), 0(13C)",7.89,5704680,0,350908,-1.1,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_1,"Guanine 1(15N), 0(13C)",8,4281479,0,351186,-1.9,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_2,"Guanine 1(15N), 0(13C)",7.94,5228629,0,384232,-1.4,Guanine
-Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 1(15N), 0(13C)",7.96,6329494,0,428955,-1.4,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_1,"Guanine 1(15N), 0(13C)",8.75,3927596,0,345000,-1.8,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_2,"Guanine 1(15N), 0(13C)",8.77,3078650,0,271673,-1.7,Guanine
+Guanine,230810_Std_4uMStdsMix2InH2O_3,"Guanine 1(15N), 0(13C)",8.72,3541495,0,301414,-1.2,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_1,"Guanine 1(15N), 0(13C)",8.81,5013230,0,401494,-2,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_2,"Guanine 1(15N), 0(13C)",8.77,3937727,0,319610,-1.7,Guanine
+Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 1(15N), 0(13C)",8.76,6293789,0,530582,-2.1,Guanine
 Guanine,230810_Std_H2OinMatrix_1,"Guanine 1(15N), 0(13C)",8.78,3158464,0,268797,-2.9,Guanine
 Guanine,230810_Std_H2OinMatrix_2,"Guanine 1(15N), 0(13C)",8.76,1288639,0,129589,-2.4,Guanine
 Guanine,230810_Std_H2OinMatrix_3,"Guanine 1(15N), 0(13C)",8.79,2656082,0,221653,-3,Guanine
@@ -1394,7 +1394,7 @@ Guanine,230810_Std_4uMStdsMix2InMatrix_3,"Guanine 2(15N), 1(13C)",7.92,3931970,0
 Guanine,230810_Std_H2OinMatrix_1,"Guanine 2(15N), 1(13C)",7.91,13472332,0,1254041,-3.9,Guanine
 Guanine,230810_Std_H2OinMatrix_2,"Guanine 2(15N), 1(13C)",7.9,20353840,182286,1981617,-3.7,Guanine
 Guanine,230810_Std_H2OinMatrix_3,"Guanine 2(15N), 1(13C)",7.88,7242766,0,707922,-4.1,Guanine
-Guanine,230810_Blk_G5_NFEX_T24_NH4_Blk_A,"Guanine 2(15N), 1(13C)",8.25,82746,0,24438,-2.7,Guanine
+Guanine,230810_Blk_G5_NFEX_T24_NH4_Blk_A,"Guanine 2(15N), 1(13C)",7.92,5111315,0,484176,-3.3,Guanine
 Guanine,230810_Blk_G5_NFEX_T24_NH4_Blk_B,"Guanine 2(15N), 1(13C)",7.87,146075584,2115906,11393645,-3.9,Guanine
 Guanine,230810_Blk_G5_NFEX_T24_NO3_Blk_A,"Guanine 2(15N), 1(13C)",7.87,2244137,0,214228,-4,Guanine
 Guanine,230810_Blk_G5_NFEX_T24_Urea_Blk_A,"Guanine 2(15N), 1(13C)",7.9,2819220,0,258981,-3.5,Guanine
