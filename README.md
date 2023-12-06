@@ -1,7 +1,7 @@
 # _**NitrogenousFate**_
 ---
 
-The Nitrogenous Fate Software is a tool that `normalizes data` to minimize the effects of obscuring variation and `quantifies metabolite production` rates in the environment.  It uses metabolite data of isotopically-labeled molecules (`Nitrite, Ammonia, and Urea`) through incubations from samples in the equatorial Pacific to show pathways of nitrogen within communities through simple `data visualization`. The current version is 0.1.
+The Nitrogenous Fate Software is a tool that `normalizes data` to minimize the effects of obscuring variation, `quantifies metabolite production` rates in the environment, and then handles `data visualization` for the user.  It uses metabolite data of isotopically-labeled molecules (`Nitrite, Ammonia, and Urea`) through incubations from samples in the equatorial Pacific to show pathways of nitrogen within communities through simple `data visualization`. The current version is 0.1.
 
 ### Historical background
 ---
@@ -32,6 +32,8 @@ This project's objective is to assist marine biology researchers in normalizing 
 The following is included in this version 0.1:
 * basic functions for Marine Biologist Research Scientist which is the ability to run calculations for Best-Matched Internal Standard Normalization and provide visualizations)
 
+For current components in this version build, please refer to the [user stories herecomponents documentation](https://github.com/CSE-583-Nitrogenous-Fate/Nitrogenous-Fate-Project/blob/main/doc/components.md).
+
 Future versions of this tool may include the following:
 * a user-friendly graphical user interface
 * customizations to parameters
@@ -42,6 +44,7 @@ Future versions of this tool may include the following:
 .
 ├── data_raw
 ├── doc
+├── intermediates
 ├── nfex
 │   ├── assets
 │   ├── notebook
@@ -60,7 +63,8 @@ NitrogenousFate is installed using the command line and is best used with a virt
 3. Change to the NitrogenousFate directory using `cd Nitrogenous-Fate-Project`
 4. Set up a new virtual environment with all the necessary packages and their dependecies using `conda env create -f environment.yml`
 5. Activate the NitrogenousFate virtual environment with `conda activate nfex`
-6. Deactivate the NitrogenousFate virtual environment using `conda deactivate`
+6. Place your data in the data_raw folder and run the program.
+7. Deactivate the NitrogenousFate virtual environment using `conda deactivate`
 
 ### Requirements
 ---
