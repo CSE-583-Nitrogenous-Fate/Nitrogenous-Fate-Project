@@ -40,11 +40,12 @@ Future versions of this tool may include the following:
 ### Repository Structure
  ```
 .
-├── data
+├── data_raw
 ├── doc
 ├── nfex
 │   ├── assets
 │   ├── notebook
+│   ├── visual
 │   └── test
 ├── LICENSE
 ├── README.md
