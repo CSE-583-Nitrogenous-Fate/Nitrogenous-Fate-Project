@@ -1,6 +1,6 @@
+![NF Logo](https://onedrive.live.com/embed?resid=9ECDF6EAD6B5C3D8%21110682&authkey=%21AFa8MVQQlSLAP7g&width=250&height=250 "")
 # _**NitrogenousFate**_
 ---
-
 The Nitrogenous Fate Software is a tool that `normalizes data` to minimize the effects of obscuring variation and `quantifies metabolite production` rates in the environment.  It uses metabolite data of isotopically-labeled molecules (`Nitrite, Ammonia, and Urea`) through incubations from samples in the equatorial Pacific to show pathways of nitrogen within communities through simple `data visualization`. The current version is 0.1.
 
 ### Historical background
@@ -42,6 +42,7 @@ Future versions of this tool may include the following:
 .
 ├── data_raw
 ├── doc
+├── intermediates
 ├── nfex
 │   ├── assets
 │   ├── notebook
@@ -60,7 +61,8 @@ NitrogenousFate is installed using the command line and is best used with a virt
 3. Change to the NitrogenousFate directory using `cd Nitrogenous-Fate-Project`
 4. Set up a new virtual environment with all the necessary packages and their dependecies using `conda env create -f environment.yml`
 5. Activate the NitrogenousFate virtual environment with `conda activate nfex`
-6. Deactivate the NitrogenousFate virtual environment using `conda deactivate`
+6. Place your data into `data_raw` and run the nfex program.
+7. Deactivate the NitrogenousFate virtual environment using `conda deactivate`
 
 ### Requirements
 ---
@@ -76,7 +78,7 @@ NitrgenousFate requires python 3.11 with the following packages installed:
 ### Usage
 ---
 #### Tool
-The NitrogenousFate contains two specific modules that each contain a class of functions for data processing and data visualization.
+The NitrogenousFate contains five specific scripts that each contain functions for data processing (2 scripts each for Dissolved, exo and Particulate, endo metabolite data) and data visualization (1 script).
 
 #### Use Cases
 Marine Biologists who conduct research on the science of metabolites in ocean waters have large data sets for nitrogenous pathways that require processing so that results can be shared amongst other scientists; these results can be expressed through data visualization that is friendly for the public. Read more about the [user stories here](https://github.com/CSE-583-Nitrogenous-Fate/Nitrogenous-Fate-Project/blob/main/doc/functional_design.md).
