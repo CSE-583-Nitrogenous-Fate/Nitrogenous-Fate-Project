@@ -1,4 +1,4 @@
-![NF Logo](https://onedrive.live.com/embed?resid=9ECDF6EAD6B5C3D8%21110682&authkey=%21AFa8MVQQlSLAP7g&width=250&height=250 "")
+![NF Logo](https://www.imgbly.com/ib/s5SRavKF99.png "")
 # _**NitrogenousFate**_
 ---
 The Nitrogenous Fate Software is a tool that `normalizes data` to minimize the effects of obscuring variation and `quantifies metabolite production` rates in the environment.  It uses metabolite data of isotopically-labeled molecules (`Nitrite, Ammonia, and Urea`) through incubations from samples in the equatorial Pacific to show pathways of nitrogen within communities through simple `data visualization`. The current version is 0.1.
