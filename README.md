@@ -30,11 +30,15 @@ This project's objective is to assist marine biology researchers in normalizing 
 ### Current Version Status
 ---
 The following is included in this version 0.1:
-* basic functions for Marine Biologist Research Scientist which is the ability to run calculations for Best-Matched Internal Standard Normalization and provide visualizations)
+
+_Basic functions for Marine Biologist Research Scientist_: 
+* run calculations for Best-Matched Internal Standard Normalization using python script (nitrogenousfate.py)
+* visualizations using a Jupyter Notebook (visualization.ipynb)
 
 Future versions of this tool may include the following:
 * a user-friendly graphical user interface
 * customizations to parameters
+* python script for data visualization 
 * expanded visualizations
 
 ### Repository Structure
@@ -42,11 +46,10 @@ Future versions of this tool may include the following:
 .
 ├── data_raw
 ├── doc
-├── intermediates
+├── results
 ├── nfex
 │   ├── assets
-│   ├── notebook
-│   ├── visual
+│   ├── notebooks
 │   └── test
 ├── LICENSE
 ├── README.md
@@ -61,24 +64,32 @@ NitrogenousFate is installed using the command line and is best used with a virt
 3. Change to the NitrogenousFate directory using `cd Nitrogenous-Fate-Project`
 4. Set up a new virtual environment with all the necessary packages and their dependecies using `conda env create -f environment.yml`
 5. Activate the NitrogenousFate virtual environment with `conda activate nfex`
-6. Place your data into `data_raw` and run the nfex program.
-7. Deactivate the NitrogenousFate virtual environment using `conda deactivate`
+6. Deactivate the NitrogenousFate virtual environment using `conda deactivate`
 
 ### Requirements
 ---
-NitrgenousFate requires python 3.11 with the following packages installed:
+NitrgenousFate requires python 3.11 with the following packages and modules installed:
 1. OS
 2. Pandas
-3. Inquirer
-4. Win32.com.client
+3. Numpy
+4. Sys
+5. Re
+6. Jupyter Notebook
 2. Matplotlib
 3. Seaborne
 4. Vega-Altair
 
 ### Usage
 ---
-#### Tool
-The NitrogenousFate contains five specific scripts that each contain functions for data processing (2 scripts each for Dissolved, exo and Particulate, endo metabolite data) and data visualization (1 script).
+#### Script Usage
+The NitrogenousFate contains two specific scripts that each contain functions for data processing (one script for Dissolved, exo and Particulate, endo metabolite data) and data visualization (1 Jupyter Notebook script).
+
+Before beginning, ensure that you have installed the NitrogenousFate, and completed the following steps: 
+1. Place your data into `data_raw`, ensure it is a CSV file. 
+2. Run the nfex program (/nfex/nitrogenousfate.py) to calculate BMISED.
+    `python nitrogenousfate.py /data_raw/*.csv`
+3. Run the Jupyter Notebook (/nfex/visualization.ipynb) to make data visualizations.
+    `jupyter notebook visualization.ipnyb`
 
 #### Use Cases
 Marine Biologists who conduct research on the science of metabolites in ocean waters have large data sets for nitrogenous pathways that require processing so that results can be shared amongst other scientists; these results can be expressed through data visualization that is friendly for the public. Read more about the [user stories here](https://github.com/CSE-583-Nitrogenous-Fate/Nitrogenous-Fate-Project/blob/main/doc/functional_design.md).
@@ -97,4 +108,4 @@ If you would like to expand on NitrogenousFate please fork the repository, add y
 
 ### Acknowledgements
 ---
-The NitrogenousFate Team would like to thank Dr. David Beck and Evan Komp from the University of Washington for their support, guidance, and feedback in the development of this package.
+The NitrogenousFate Team would like to thank Dr. David Beck, Evan Komp, and Nels Schimek from the University of Washington for their support, guidance, and feedback in the development of this package.
