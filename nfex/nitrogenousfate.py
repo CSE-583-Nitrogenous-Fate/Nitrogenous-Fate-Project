@@ -43,7 +43,7 @@ def process_csv(csv_file):
         merged_areas['result_column'] = merged_areas['bmis_area'] * mean_area_IS_14_to_44
 
         # Save merged_areas as a CSV file
-        merged_areas.to_csv('merged_areas.csv', index=False)
+        merged_areas.to_csv('_bmised_areas.csv', index=False)
 
         return merged_areas
 
