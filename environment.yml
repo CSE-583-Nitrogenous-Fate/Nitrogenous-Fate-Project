@@ -21,4 +21,4 @@ dependencies:
   - yaml=0.2.5
   - pip:
     - scipy==1.7.1
-prefix: /Users/brianroman/opt/anaconda3
+

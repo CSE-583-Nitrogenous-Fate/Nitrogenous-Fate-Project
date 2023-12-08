@@ -48,7 +48,6 @@ Future versions of this tool may include the following:
 ├── doc
 ├── results
 ├── nfex
-│   ├── assets
 │   ├── notebooks
 │   └── test
 ├── LICENSE
