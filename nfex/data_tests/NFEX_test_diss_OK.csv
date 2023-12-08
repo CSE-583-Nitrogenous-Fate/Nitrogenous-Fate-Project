@@ -1,0 +1,512 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 0(15N), 0(13C)",11.4,286260832,3910211,13921686,-4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 0(15N), 0(13C)",11.21,260989808,3689850,11301857,-4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 0(15N), 0(13C)",10.73,141455168,7552062,9001988,-4.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 0(15N), 0(13C)",11.35,233948208,3496661,15464403,-3.6,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 0(15N), 0(13C)",11.21,256643136,3148965,16327608,-3.5,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 0(15N), 0(13C)",11.96,350436,528520,52514,-4.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 0(15N), 0(13C)",11.59,88351,6683,18357,-1.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 0(15N), 0(13C)",12.18,68700,0,12909,-1.3,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 0(15N), 0(13C)",11.86,62168,0,13910,-1.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 0(15N), 0(13C)",11.56,320612,0,25386,-2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 0(15N), 0(13C)",11.68,85525,0,14648,-2.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 0(15N), 0(13C)",11.62,68606,0,15629,-2.6,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_1,"L- Glutamine 0(15N), 0(13C)",11.39,1600553,611301,93337,-2.4,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_2,"L- Glutamine 0(15N), 0(13C)",11.49,176527,155934,12063,-2.6,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_3,"L- Glutamine 0(15N), 0(13C)",11.74,163864,0,8730,-2.1,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 0(15N), 0(13C)",11.36,1775462,507799,106215,-2.8,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 0(15N), 0(13C)",11.25,1777744,559098,109956,-3.1,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 0(15N), 0(13C)",11.46,259924,107315,24000,-2.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 0(15N), 0(13C)",11.17,1687193,385239,128700,-2.3,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 0(15N), 0(13C)",11.23,1962131,466582,141233,-3,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 0(15N), 0(13C)",11.79,178218,74821,14379,-2.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 0(15N), 0(13C)",11.23,609317,20575,27727,-2.5,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 0(15N), 0(13C)",11.71,70618,126732,8170,-2.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 0(15N), 0(13C)",11.71,184232,40092,13721,-2.5,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 0(15N), 0(13C)",11.77,106641,84384,13852,-3.6,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 0(15N), 0(13C)",11.04,631920,11486,28181,-3.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.32,2818283,581188,133587,-3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.13,3575004,799570,134676,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.18,3282079,442680,245614,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.27,1221220,384079,94180,-3.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.72,125459,3710,12960,-1.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.32,263654,238793,11699,-2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.37,2294443,100954,76344,-3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.69,130778,157824,9590,-3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.23,458215,132094,24590,-2.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.27,441615,352280,49344,-1.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.2,416122,142872,20426,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.23,1615165,609552,49043,-2.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.45,186502,319600,19728,-2.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.79,72475,129857,10587,-2.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.79,289732,260732,55159,-3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.3,513020,0,17338,-3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.94,187729,179012,11511,-2.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.61,209166,216389,13335,-2.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.55,41467,129130,4612,-2.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.28,1651235,248232,71405,-3.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.17,1061122,335236,74617,-3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.49,429892,98890,15037,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.68,140052,8701,11258,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.68,248807,22607,15572,-2.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.74,94908,178253,7709,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.06,924850,124529,47247,-3.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.29,337329,213944,23895,-2.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 0(15N), 0(13C)",11.66,53247,91925,8345,-2.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 0(15N), 0(13C)",11.71,718325,10491,20347,-2.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 0(15N), 0(13C)",11.68,10877,58074,3463,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 0(15N), 0(13C)",11.69,65530,0,10681,-1.1,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_A,"L- Glutamine 0(15N), 0(13C)",11.34,5183124,271217,176785,-3.1,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_B,"L- Glutamine 0(15N), 0(13C)",11.4,900313,102862,39390,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C,"L- Glutamine 0(15N), 0(13C)",11.53,86424,121861,8302,-2.7,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 0(15N), 0(13C)",11.57,82748,10042,13011,-1.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_A,"L- Glutamine 0(15N), 0(13C)",11.74,168422,205497,11719,-2.7,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_B,"L- Glutamine 0(15N), 0(13C)",11.79,478334,281890,16155,-3.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_C,"L- Glutamine 0(15N), 0(13C)",11.88,183754,151992,13489,-2.7,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_A,"L- Glutamine 0(15N), 0(13C)",11.74,107046,2151,13794,-1,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_B,"L- Glutamine 0(15N), 0(13C)",11.82,185094,223251,10515,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_C,"L- Glutamine 0(15N), 0(13C)",11.06,1949035,53692,50897,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_A,"L- Glutamine 0(15N), 0(13C)",11.7,16628,40512,9089,-3.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_B,"L- Glutamine 0(15N), 0(13C)",11.4,2251783,293422,93527,-3.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_C,"L- Glutamine 0(15N), 0(13C)",11.79,74371,71085,11110,-2.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_A,"L- Glutamine 0(15N), 0(13C)",11.21,1528984,36740,38034,-1.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_B,"L- Glutamine 0(15N), 0(13C)",11.61,216321,1030,11438,-1.7,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_C,"L- Glutamine 0(15N), 0(13C)",11.72,144348,53196,13572,-2.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 0(15N), 1(13C)",11.4,16247891,0,839326,-3.2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 0(15N), 1(13C)",11.21,14427651,0,639631,-3.5,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 0(15N), 1(13C)",10.73,7857232,0,497169,-4.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 0(15N), 1(13C)",11.35,12957902,0,804294,-3.3,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 0(15N), 1(13C)",11.21,14116854,0,868471,-3.2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 0(15N), 1(13C)",11.7,17868,0,8242,-0.6,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_1,"L- Glutamine 0(15N), 1(13C)",11.43,6983,0,3904,-2,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_2,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_3,"L- Glutamine 0(15N), 1(13C)",10.71,10794,0,6418,-3.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 0(15N), 1(13C)",11.33,67111,0,7540,-2.2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 0(15N), 1(13C)",11.23,33076,0,7624,-3,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 0(15N), 1(13C)",11.19,12403,0,5343,-2.5,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 0(15N), 1(13C)",11.17,37530,0,11691,-1.2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 0(15N), 1(13C)",11.17,70408,0,9655,-2.6,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 0(15N), 1(13C)",11.1,38485,0,8889,-2.5,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 0(15N), 1(13C)",10.99,46593,0,9322,-2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 0(15N), 1(13C)",11.03,20131,0,7933,-2.2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 0(15N), 1(13C)",10.92,48435,0,8695,-4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 0(15N), 1(13C)",10.92,58962,0,8841,-3.8,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 0(15N), 1(13C)",10.84,57945,0,8220,-3.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 0(15N), 1(13C)",11.32,47441,0,10802,-2.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 0(15N), 1(13C)",11.13,73630,0,9155,-1.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 0(15N), 1(13C)",11.23,108156,0,13481,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 0(15N), 1(13C)",11.29,13832,0,7143,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 0(15N), 1(13C)",11.29,5138,0,3265,-1.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 0(15N), 1(13C)",11.48,5702,0,4215,-2.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 0(15N), 1(13C)",10.92,52494,0,10106,-3.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 0(15N), 1(13C)",10.96,19611,0,7978,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 0(15N), 1(13C)",11.06,105899,0,12956,-2.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 0(15N), 1(13C)",10.93,67929,0,10299,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 0(15N), 1(13C)",11.28,44987,0,7078,-3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 0(15N), 1(13C)",11.05,62214,0,7606,-4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 0(15N), 1(13C)",11.25,7582,0,6290,-3.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 0(15N), 1(13C)",11.5,4588,0,3462,-0.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 0(15N), 1(13C)",11.18,4976,0,3049,-1.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 0(15N), 1(13C)",11.26,7095,0,5118,-1.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 0(15N), 1(13C)",11.26,5499,0,4383,-3.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 0(15N), 1(13C)",11.41,6822,0,5526,-1.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 0(15N), 1(13C)",10.99,46363,0,9174,-2.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 0(15N), 1(13C)",10.82,213595,0,21381,-3.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 0(15N), 1(13C)",11.06,91315,0,10445,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 0(15N), 1(13C)",10.86,14471,0,5020,-1.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 0(15N), 1(13C)",11.04,45859,0,6365,-1.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_A,"L- Glutamine 0(15N), 1(13C)",11.31,150097,0,11238,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_B,"L- Glutamine 0(15N), 1(13C)",11.26,23295,0,6723,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C,"L- Glutamine 0(15N), 1(13C)",11.42,7994,0,5625,13.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_A,"L- Glutamine 0(15N), 1(13C)",10.86,6332,0,4175,-0.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_B,"L- Glutamine 0(15N), 1(13C)",11.22,4814,0,2787,-0.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_C,"L- Glutamine 0(15N), 1(13C)",11.17,8671,0,4563,-3,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_A,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_B,"L- Glutamine 0(15N), 1(13C)",11.15,6142,0,6453,-3.8,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_C,"L- Glutamine 0(15N), 1(13C)",12.17,5995,0,6213,-0.1,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_A,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_B,"L- Glutamine 0(15N), 1(13C)",11.34,8139,0,7667,-3.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_C,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_A,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_B,"L- Glutamine 0(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_C,"L- Glutamine 0(15N), 1(13C)",10.75,5736,0,3612,-1.9,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 1(15N), 0(13C)",11.4,1871647,0,109826,-2.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 1(15N), 0(13C)",11.29,1617973,0,81909,-2.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 1(15N), 0(13C)",10.71,1047061,0,67710,-3.8,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 1(15N), 0(13C)",11.37,1645412,0,116126,-1.9,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 1(15N), 0(13C)",11.21,1605623,0,97565,-2.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 1(15N), 0(13C)",10.76,1835773,0,119960,-3.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 1(15N), 0(13C)",11.32,9385,0,6097,4.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 1(15N), 0(13C)",10.94,6836,0,4921,4.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 1(15N), 0(13C)",11.86,10698,0,9482,1.5,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 1(15N), 0(13C)",11.33,106695,0,19069,-2.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 1(15N), 0(13C)",11.19,39545,0,16895,-2.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_1,"L- Glutamine 1(15N), 0(13C)",11.69,5682,0,4213,4.1,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_2,"L- Glutamine 1(15N), 0(13C)",11.26,116316,0,12547,-3.2,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_3,"L- Glutamine 1(15N), 0(13C)",10.72,144112,0,14659,-4.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 1(15N), 0(13C)",11.36,290205,0,29760,-3.7,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 1(15N), 0(13C)",11.76,16782,0,5151,8.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 1(15N), 0(13C)",11.27,270269,0,30469,-3.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 1(15N), 0(13C)",11.2,303088,0,27336,-2.7,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 1(15N), 0(13C)",11.21,312240,0,27974,-3.2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 1(15N), 0(13C)",11.09,302154,0,28814,-3.2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 1(15N), 0(13C)",10.98,304871,0,23734,-2.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 1(15N), 0(13C)",11.72,4438,0,3106,3.3,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 1(15N), 0(13C)",10.92,278187,0,28833,-3.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 1(15N), 0(13C)",11.71,10563,0,5728,10.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 1(15N), 0(13C)",10.87,322889,0,27554,-4.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 1(15N), 0(13C)",12.23,56983,0,8159,-10.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 1(15N), 0(13C)",12.16,12407,0,6699,-11,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 1(15N), 0(13C)",12.18,17324,0,6729,-7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 1(15N), 0(13C)",11.27,936339,0,83218,-3.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 1(15N), 0(13C)",11.17,565321,0,29626,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 1(15N), 0(13C)",11.06,1151174,0,50499,-3.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 1(15N), 0(13C)",12.16,15470,0,8934,-10.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 1(15N), 0(13C)",11.28,11248,0,6086,10.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 1(15N), 0(13C)",12.17,17787,0,6314,-7.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 1(15N), 0(13C)",12.16,59062,0,8030,-11.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 1(15N), 0(13C)",10.89,89560,0,12246,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 1(15N), 0(13C)",12.13,11854,0,10569,-0.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 1(15N), 0(13C)",11.72,5030,0,3245,5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 1(15N), 0(13C)",11.08,2201328,0,164388,-3.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 1(15N), 0(13C)",11.29,323555,0,27563,-3.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 1(15N), 0(13C)",12.16,22931,0,7414,-4.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 1(15N), 0(13C)",12.11,21781,0,3577,-1.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 1(15N), 0(13C)",11.13,21129,0,8145,-3.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 1(15N), 0(13C)",12.17,90100,0,9928,-12.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 1(15N), 0(13C)",11.28,132675,0,14115,-3.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 1(15N), 0(13C)",11.17,89290,0,12470,-3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 1(15N), 0(13C)",11.27,732401,0,43470,-3.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 1(15N), 0(13C)",10.98,216525,0,20961,-3.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 1(15N), 0(13C)",10.82,703276,0,43338,-4.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 1(15N), 0(13C)",11.76,11063,0,6013,3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 1(15N), 0(13C)",12.16,48043,0,7668,-8.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 1(15N), 0(13C)",11.14,102131,0,12870,-2.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 1(15N), 0(13C)",10.95,128006,0,14441,-3.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 1(15N), 0(13C)",11.01,305364,0,18327,-3.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_A,"L- Glutamine 1(15N), 0(13C)",12.57,10770,0,5811,10.9,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_B,"L- Glutamine 1(15N), 0(13C)",12.53,10145,0,6261,12,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 1(15N), 0(13C)",11.26,12403,0,6595,8.3,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_A,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_B,"L- Glutamine 1(15N), 0(13C)",12.54,10168,0,5268,6.5,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_C,"L- Glutamine 1(15N), 0(13C)",11.69,9481,0,3590,3.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_A,"L- Glutamine 1(15N), 0(13C)",11.56,11874,0,6354,6.5,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_B,"L- Glutamine 1(15N), 0(13C)",11.94,7290,0,7460,12.5,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_C,"L- Glutamine 1(15N), 0(13C)",11.74,24191,0,5803,7.3,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_A,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_B,"L- Glutamine 1(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_C,"L- Glutamine 1(15N), 0(13C)",11.18,15352,0,7962,9.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_A,"L- Glutamine 1(15N), 0(13C)",12.54,9588,0,5331,11.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_B,"L- Glutamine 1(15N), 0(13C)",11.17,11061,0,4423,3.8,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_C,"L- Glutamine 1(15N), 0(13C)",11.82,10227,0,5708,9.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 1(15N), 1(13C)",11.06,11459,0,9730,16.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 1(15N), 1(13C)",11.13,47536,0,29834,12.2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 1(15N), 1(13C)",10.73,58243,0,33892,10.9,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 1(15N), 1(13C)",11.29,12100,0,11650,0.5,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 1(15N), 1(13C)",11.16,10081,0,8980,1.9,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_1,"L- Glutamine 1(15N), 1(13C)",10.83,7397,0,7872,2.1,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_2,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_3,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 1(15N), 1(13C)",10.96,5611,0,3679,4.8,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 1(15N), 1(13C)",11.65,5173,0,4624,-17.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 1(15N), 1(13C)",11.23,8311,0,7319,-0.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 1(15N), 1(13C)",11.08,21448,0,8290,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 1(15N), 1(13C)",10.88,6937,0,3737,4.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 1(15N), 1(13C)",11.27,5093,0,3205,-0.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 1(15N), 1(13C)",10.86,5467,0,4621,-1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_A,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_B,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_C,"L- Glutamine 1(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 2(15N), 0(13C)",12.63,6521,0,6174,0.3,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 2(15N), 0(13C)",12.38,4188,0,3105,-1.2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 2(15N), 0(13C)",11.57,7106,0,7176,-4.2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 2(15N), 0(13C)",12.35,7676,0,6254,-0.6,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 2(15N), 0(13C)",11.32,9056,0,5883,0.5,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 2(15N), 0(13C)",12.57,5060,0,3839,-0.7,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 2(15N), 0(13C)",11.38,143863,0,14821,-1.3,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 2(15N), 0(13C)",11.26,69779,0,14482,-1.9,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 2(15N), 0(13C)",10.7,52297,0,11322,-3.7,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_1,"L- Glutamine 2(15N), 0(13C)",11.45,314840,0,19590,-2.6,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_2,"L- Glutamine 2(15N), 0(13C)",11.72,5080,0,2743,-1.9,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_3,"L- Glutamine 2(15N), 0(13C)",10.75,131532,0,14819,-3.6,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 2(15N), 0(13C)",11.44,286080,0,20460,-2.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 2(15N), 0(13C)",11.23,284288,0,24091,-3.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 2(15N), 0(13C)",11.29,268347,0,22844,-3.1,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 2(15N), 0(13C)",11.21,299301,0,24844,-2.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 2(15N), 0(13C)",11.69,9582,0,4889,1.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 2(15N), 0(13C)",11.15,296295,0,25782,-2.9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 2(15N), 0(13C)",11.06,285392,0,28332,-2.6,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 2(15N), 0(13C)",11.72,4335,0,3034,-1.3,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 2(15N), 0(13C)",10.96,309909,0,26903,-3.3,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 2(15N), 0(13C)",11.03,294179,0,32719,-4.1,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 2(15N), 0(13C)",10.82,300334,0,26598,-3.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 2(15N), 0(13C)",11.33,977969,0,81993,-3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 2(15N), 0(13C)",11.15,431308,0,26932,-2.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 2(15N), 0(13C)",11.04,1276705,0,59972,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 2(15N), 0(13C)",11.27,7538,0,6872,-1.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 2(15N), 0(13C)",10.91,6723,0,3742,-2.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 2(15N), 0(13C)",10.98,21295,0,7988,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 2(15N), 0(13C)",10.99,143135,0,17260,-2.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 2(15N), 0(13C)",10.86,113092,0,11791,-2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 2(15N), 0(13C)",11.21,37643,0,9056,-2.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 2(15N), 0(13C)",11.29,1294146,0,107616,-3.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 2(15N), 0(13C)",11.08,1926207,0,147789,-2.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 2(15N), 0(13C)",11.29,639548,0,31231,-3.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 2(15N), 0(13C)",12.27,4955,0,4830,0,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 2(15N), 0(13C)",11.27,18137,0,6494,-1.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 2(15N), 0(13C)",10.93,140680,0,10771,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 2(15N), 0(13C)",11.33,198540,0,16851,-3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 2(15N), 0(13C)",11.18,77439,0,12585,-2.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 2(15N), 0(13C)",11.25,709313,0,38973,-3.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 2(15N), 0(13C)",10.98,224335,0,19923,-3.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 2(15N), 0(13C)",10.82,625915,0,47473,-4.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 2(15N), 0(13C)",11.08,16689,0,3743,-0.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 2(15N), 0(13C)",11.09,29760,0,8149,-2.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 2(15N), 0(13C)",10.95,163106,0,15038,-2.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 2(15N), 0(13C)",12.16,4940,0,4498,0.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_A,"L- Glutamine 2(15N), 0(13C)",12.06,6508,0,5230,-0.3,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_B,"L- Glutamine 2(15N), 0(13C)",11.4,5912,0,4924,2.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_A,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_B,"L- Glutamine 2(15N), 0(13C)",11.19,5693,0,3665,-1.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_C,"L- Glutamine 2(15N), 0(13C)",11.82,4657,0,3274,0,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_A,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_B,"L- Glutamine 2(15N), 0(13C)",11.97,5306,0,5392,0.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_C,"L- Glutamine 2(15N), 0(13C)",11.89,5289,0,3640,0.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_A,"L- Glutamine 2(15N), 0(13C)",11.88,6231,0,5250,-0.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_B,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_C,"L- Glutamine 2(15N), 0(13C)",11.21,7388,0,6184,-0.9,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_A,"L- Glutamine 2(15N), 0(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_B,"L- Glutamine 2(15N), 0(13C)",11.24,5170,0,4291,-0.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_C,"L- Glutamine 2(15N), 0(13C)",11.75,4059,0,3923,0,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 2(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 2(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 2(15N), 1(13C)",#N/A,#N/A,#N/A,#N/A,#N/A,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 2(15N), 1(13C)",11.65,15286,0,10363,7.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 2(15N), 1(13C)",12.02,14223,0,9404,6.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_3,"L- Glutamine 2(15N), 1(13C)",12.5,18887,0,8246,8.2,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_1,"L- Glutamine 2(15N), 1(13C)",11.72,141763,0,33378,18.6,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_2,"L- Glutamine 2(15N), 1(13C)",11.66,203765,0,29953,17.4,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InH2O_3,"L- Glutamine 2(15N), 1(13C)",11.53,390875,87045,32036,18.1,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_1,"L- Glutamine 2(15N), 1(13C)",11.65,220683,0,30354,17.3,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_2,"L- Glutamine 2(15N), 1(13C)",11.53,589626,0,36576,12.9,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix2InMatrix_3,"L- Glutamine 2(15N), 1(13C)",11.73,490826,37264,46835,17.5,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_1,"L- Glutamine 2(15N), 1(13C)",11.48,28968,0,9960,8,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_2,"L- Glutamine 2(15N), 1(13C)",11.96,19988,0,4816,3.5,L- Glutamine
+L- Glutamine,230831_Std_H2OinMatrix_3,"L- Glutamine 2(15N), 1(13C)",11.72,4232,0,2797,12.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full1,"L- Glutamine 2(15N), 1(13C)",11.39,22773,0,4448,8.2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full2,"L- Glutamine 2(15N), 1(13C)",11.45,10558,0,5458,10.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full3,"L- Glutamine 2(15N), 1(13C)",11.77,33637,0,7626,5.5,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full4,"L- Glutamine 2(15N), 1(13C)",11.75,15903,0,7333,2,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full5,"L- Glutamine 2(15N), 1(13C)",11.66,11554,0,4868,9,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full6,"L- Glutamine 2(15N), 1(13C)",11.88,95611,0,9985,9.7,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full7,"L- Glutamine 2(15N), 1(13C)",11.69,76327,0,7452,7.8,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full8,"L- Glutamine 2(15N), 1(13C)",11.66,54279,0,6861,7.8,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full9,"L- Glutamine 2(15N), 1(13C)",11.8,54804,0,7232,10,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full10,"L- Glutamine 2(15N), 1(13C)",11.8,27918,0,5989,7.4,L- Glutamine
+L- Glutamine,230831_Poo_G5_NFEX-CatEx_Full11,"L- Glutamine 2(15N), 1(13C)",11.66,34169,0,6694,7.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.73,34073,0,8910,8.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.74,37850,0,8378,8.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T0_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.6,24085,0,8699,11.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.87,38604,0,7791,8.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.61,13450,0,4962,12.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.65,257322,0,14796,10.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.99,20628,0,9538,10.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.71,23035,0,7529,9.1,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.71,64895,0,12680,9.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.77,92548,0,7991,9.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.79,19024,0,9500,11.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.72,9966,0,5034,7.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.93,64358,0,9679,7.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.76,135966,0,9153,9.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"L- Glutamine 2(15N), 1(13C)",12.06,21834,0,8732,9.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.57,25365,0,9809,5.2,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.81,6725,0,5478,8.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.77,5747,0,3210,5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.6,23809,0,6505,8.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.87,19483,0,6489,9.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.71,28207,0,7416,6.9,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"L- Glutamine 2(15N), 1(13C)",12.18,25816,0,7001,6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.69,50767,0,10859,10.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.51,87205,0,8550,6.5,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.76,59556,0,7395,9.8,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.79,49120,0,7486,8.6,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"L- Glutamine 2(15N), 1(13C)",11.74,40920,0,7760,4.3,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"L- Glutamine 2(15N), 1(13C)",11.71,19573,0,8637,12.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"L- Glutamine 2(15N), 1(13C)",11.66,31871,0,7478,11.7,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"L- Glutamine 2(15N), 1(13C)",12.03,4455,0,3187,3.4,L- Glutamine
+L- Glutamine,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"L- Glutamine 2(15N), 1(13C)",11.57,8301,0,7813,1.5,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_A,"L- Glutamine 2(15N), 1(13C)",11.79,5252,0,4937,1.5,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_B,"L- Glutamine 2(15N), 1(13C)",11.65,4025,0,2187,8.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C,"L- Glutamine 2(15N), 1(13C)",11.8,5486,0,3887,8.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_1_C_2ndInj,"L- Glutamine 2(15N), 1(13C)",10.91,14536,0,7632,10.4,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_A,"L- Glutamine 2(15N), 1(13C)",11.45,13440,0,7255,8.9,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_B,"L- Glutamine 2(15N), 1(13C)",11.59,11250,0,4199,6.3,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_2_C,"L- Glutamine 2(15N), 1(13C)",11.8,11668,0,6346,8,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_A,"L- Glutamine 2(15N), 1(13C)",11.76,6400,0,5577,10.8,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_B,"L- Glutamine 2(15N), 1(13C)",11.68,13417,0,7614,9.3,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_3_C,"L- Glutamine 2(15N), 1(13C)",11.69,93204,0,10155,9.9,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_A,"L- Glutamine 2(15N), 1(13C)",11.83,5922,0,5544,11.5,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_B,"L- Glutamine 2(15N), 1(13C)",11.85,7568,0,4798,5.7,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_4_C,"L- Glutamine 2(15N), 1(13C)",11.71,6459,0,5547,2.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_A,"L- Glutamine 2(15N), 1(13C)",11.51,4694,0,4624,12.6,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_B,"L- Glutamine 2(15N), 1(13C)",12.11,4687,0,3278,6.2,L- Glutamine
+L- Glutamine,230831_Smp_LabBlk_5_C,"L- Glutamine 2(15N), 1(13C)",11.69,5011,0,4319,2.3,L- Glutamine
+Internal Standard,230831_Std_4uMStdsMix1InH2O_1,"Arsenobetaine, 13C2",7.67,9495498,0,567640,-15.3,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix1InH2O_2,"Arsenobetaine, 13C2",7.72,8387652,0,555123,-15.6,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix1InH2O_3,"Arsenobetaine, 13C2",7.1,443868,0,39682,14.9,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix1InMatrix_1,"Arsenobetaine, 13C2",7.73,394202528,5059234,24008790,0.6,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix1InMatrix_2,"Arsenobetaine, 13C2",7.67,321432032,3609007,18831706,0.5,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix1InMatrix_3,"Arsenobetaine, 13C2",7.67,321553472,3884278,19003930,-0.3,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix2InH2O_1,"Arsenobetaine, 13C2",7.21,46186,0,16203,13.2,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix2InH2O_2,"Arsenobetaine, 13C2",7.59,44724,0,24029,9.1,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix2InH2O_3,"Arsenobetaine, 13C2",7.22,134040,0,26097,14.7,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix2InMatrix_1,"Arsenobetaine, 13C2",7.72,380272256,3368302,22400286,1.1,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix2InMatrix_2,"Arsenobetaine, 13C2",7.69,340778688,3727433,20025194,0.8,Internal Standard
+Internal Standard,230831_Std_4uMStdsMix2InMatrix_3,"Arsenobetaine, 13C2",7.69,347793856,4401383,20235532,-0.1,Internal Standard
+Internal Standard,230831_Std_H2OinMatrix_1,"Arsenobetaine, 13C2",7.71,370845056,4887690,22135776,0.8,Internal Standard
+Internal Standard,230831_Std_H2OinMatrix_2,"Arsenobetaine, 13C2",7.72,328226112,4658922,18575928,0.2,Internal Standard
+Internal Standard,230831_Std_H2OinMatrix_3,"Arsenobetaine, 13C2",7.67,321697600,4984428,19339312,-0.7,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full1,"Arsenobetaine, 13C2",7.72,558859392,5804239,32758266,0.2,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full2,"Arsenobetaine, 13C2",7.7,532988064,8467565,32888244,-0.2,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full3,"Arsenobetaine, 13C2",7.7,527539360,8353880,31135960,-0.2,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full4,"Arsenobetaine, 13C2",7.69,534713696,8253320,32655218,1.1,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full5,"Arsenobetaine, 13C2",7.69,550112256,6286136,32739794,1.1,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full6,"Arsenobetaine, 13C2",7.69,524432928,7323265,29850912,0.4,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full7,"Arsenobetaine, 13C2",7.69,531548032,7364415,31131116,0.9,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full8,"Arsenobetaine, 13C2",7.68,547324608,5763426,33277868,0.3,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full9,"Arsenobetaine, 13C2",7.71,534909408,6730541,30001808,0.2,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full10,"Arsenobetaine, 13C2",7.69,537262592,9082710,30850406,-0.3,Internal Standard
+Internal Standard,230831_Poo_G5_NFEX-CatEx_Full11,"Arsenobetaine, 13C2",7.69,530295616,8255449,31784576,-0.4,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T0_Metab_A,"Arsenobetaine, 13C2",7.72,671727424,11642436,40841520,0.1,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T0_Metab_B,"Arsenobetaine, 13C2",7.69,573919808,8912064,35257148,0.8,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T0_Metab_C,"Arsenobetaine, 13C2",7.7,474601984,5147544,27761934,0.6,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_NH4_Metab_A,"Arsenobetaine, 13C2",7.72,434566688,5525930,25887904,0.3,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_NH4_Metab_B,"Arsenobetaine, 13C2",7.68,480006560,6465053,28612146,1,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_NH4_Metab_C,"Arsenobetaine, 13C2",7.68,587541248,7303320,33538352,0.7,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_NO3_Metab_A,"Arsenobetaine, 13C2",7.69,487455264,7761722,29462392,-0.2,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_NO3_Metab_B,"Arsenobetaine, 13C2",7.67,485997216,6674322,27982798,-0.2,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_NO3_Metab_C,"Arsenobetaine, 13C2",7.68,499691232,6900563,30139538,0.1,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_Urea_Metab_A,"Arsenobetaine, 13C2",7.68,712077376,8521020,42251712,0.7,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_Urea_Metab_B,"Arsenobetaine, 13C2",7.71,513547616,7360028,28946602,0.5,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T6_Urea_Metab_C,"Arsenobetaine, 13C2",7.66,716382528,10729065,43509904,0.9,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_NH4_Metab_A,"Arsenobetaine, 13C2",7.7,564483584,6997251,33719524,0.4,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_NH4_Metab_B,"Arsenobetaine, 13C2",7.69,558457088,7489668,32241258,0.7,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_NH4_Metab_C,"Arsenobetaine, 13C2",7.73,648221824,8083296,38882712,0.2,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_NO3_Metab_A,"Arsenobetaine, 13C2",7.69,466666816,6959156,28868502,-0.1,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_NO3_Metab_B,"Arsenobetaine, 13C2",7.71,517540384,7297047,29539778,0,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_NO3_Metab_C,"Arsenobetaine, 13C2",7.69,265965312,4916186,16638322,-0.1,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_Urea_Metab_A,"Arsenobetaine, 13C2",7.69,672449600,9427103,39378816,-0.2,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_Urea_Metab_B,"Arsenobetaine, 13C2",7.72,700159360,10325814,40813548,-0.5,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T12_Urea_Metab_C,"Arsenobetaine, 13C2",7.71,553328256,7335517,32745398,0.4,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_NH4_Metab_A,"Arsenobetaine, 13C2",7.73,552987456,7973690,31068140,0,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_NH4_Metab_B,"Arsenobetaine, 13C2",7.69,256996832,3280705,15123040,0.3,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_NH4_Metab_C,"Arsenobetaine, 13C2",7.69,516270784,6836596,30720818,-0.3,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_NO3_Metab_A,"Arsenobetaine, 13C2",7.67,335561504,3320818,19143326,0.4,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_NO3_Metab_B,"Arsenobetaine, 13C2",7.68,703344320,9949695,41780956,-0.4,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_NO3_Metab_C,"Arsenobetaine, 13C2",7.67,436384896,5184001,26087424,0.8,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_Urea_Metab_A,"Arsenobetaine, 13C2",7.71,497666880,8125500,29093030,0.3,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_Urea_Metab_B,"Arsenobetaine, 13C2",7.71,559022080,6292666,33510504,0.2,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_Urea_Metab_C,"Arsenobetaine, 13C2",7.66,70112584,1596058,4016161,1,Internal Standard
+Internal Standard,230831_Smp_G5_NFEX_T24_Urea_Metab_C_2ndInj,"Arsenobetaine, 13C2",7.64,90853392,795331,5178729,0.9,Internal Standard
+Internal Standard,230831_Smp_LabBlk_1_A,"Arsenobetaine, 13C2",7.69,711021760,7114766,40611280,0.5,Internal Standard
+Internal Standard,230831_Smp_LabBlk_1_B,"Arsenobetaine, 13C2",7.66,570633344,8712259,33382988,0.6,Internal Standard
+Internal Standard,230831_Smp_LabBlk_1_C,"Arsenobetaine, 13C2",7.73,114135320,1177174,6440775,-0.1,Internal Standard
+Internal Standard,230831_Smp_LabBlk_1_C_2ndInj,"Arsenobetaine, 13C2",7.67,147279232,1212680,8871746,0.8,Internal Standard
+Internal Standard,230831_Smp_LabBlk_2_A,"Arsenobetaine, 13C2",7.69,557090688,7627839,33099746,0.2,Internal Standard
+Internal Standard,230831_Smp_LabBlk_2_B,"Arsenobetaine, 13C2",7.67,518793088,7153932,30871594,-0.2,Internal Standard
+Internal Standard,230831_Smp_LabBlk_2_C,"Arsenobetaine, 13C2",7.67,584497600,7372535,34870648,0.9,Internal Standard
+Internal Standard,230831_Smp_LabBlk_3_A,"Arsenobetaine, 13C2",7.67,775827968,11821840,47429580,0.5,Internal Standard
+Internal Standard,230831_Smp_LabBlk_3_B,"Arsenobetaine, 13C2",7.69,397839808,6012759,23934146,1,Internal Standard
+Internal Standard,230831_Smp_LabBlk_3_C,"Arsenobetaine, 13C2",7.69,630584064,9341218,36772820,0.8,Internal Standard
+Internal Standard,230831_Smp_LabBlk_4_A,"Arsenobetaine, 13C2",7.7,414495904,5965376,23889064,0.5,Internal Standard
+Internal Standard,230831_Smp_LabBlk_4_B,"Arsenobetaine, 13C2",7.69,700177984,7984110,39139992,-0.2,Internal Standard
+Internal Standard,230831_Smp_LabBlk_4_C,"Arsenobetaine, 13C2",7.71,431133408,6369617,23682816,0.8,Internal Standard
+Internal Standard,230831_Smp_LabBlk_5_A,"Arsenobetaine, 13C2",7.69,599342976,8296661,36553268,1.2,Internal Standard
+Internal Standard,230831_Smp_LabBlk_5_B,"Arsenobetaine, 13C2",7.69,480739008,6704538,28508660,-0.1,Internal Standard
+Internal Standard,230831_Smp_LabBlk_5_C,"Arsenobetaine, 13C2",7.69,555105792,8251124,33213646,-0.2,Internal Standard
