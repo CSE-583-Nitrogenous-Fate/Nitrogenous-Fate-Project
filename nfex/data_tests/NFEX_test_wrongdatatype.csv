@@ -1,0 +1,6 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_1,"L- Glutamine 0(15N), 0(13C)",hello world,cat,red,tall,zero,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_2,"L- Glutamine 0(15N), 0(13C)",hello world,dog,orange,short,zero,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InH2O_3,"L- Glutamine 0(15N), 0(13C)",hello world,bunny,yellow,kinda tall,zero,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_1,"L- Glutamine 0(15N), 0(13C)",hello world,turtle,violet,medium,zero,L- Glutamine
+L- Glutamine,230831_Std_4uMStdsMix1InMatrix_2,"L- Glutamine 0(15N), 0(13C)",hello world,moose,blue,flat,zero,L- Glutamine
