@@ -19,7 +19,7 @@ class TestNFEX(unittest.TestCase):
         test_smoke_pass(self): Smoke test (1) verifying function should run without 
         crashing or throwing errors if given an appropriate CSV file.
         """
-        csv_file = '../data_tests/NFEX_test_diss_OK'
+        csv_file = './data_tests/NFEX_test_diss_OK.csv'
         process_csv(csv_file)
 
     def test_invalid_csv(self):
@@ -36,7 +36,7 @@ class TestNFEX(unittest.TestCase):
         test_empty_csv(self): Test verifying function should throw exception 
         if we give it an empty CSV file.
         """
-        csv_file = '../data_tests/NFEX_test_nodata'
+        csv_file = './data_tests/NFEX_test_nodata.csv'
         with self.assertRaises(ValueError):
             process_csv(csv_file)
 
@@ -45,7 +45,7 @@ class TestNFEX(unittest.TestCase):
         test_incorrect_dtype(self): Test verifying function should throw exception 
         if we give it a CSV file with incorrect data types (e.g. string instead of double)
         """
-        csv_file = '../data_tests/NFEX_test_wrongdatatype'
+        csv_file = './data_tests/NFEX_test_wrongdatatype.csv'
         with self.assertRaises(ValueError):
             process_csv(csv_file)
 
