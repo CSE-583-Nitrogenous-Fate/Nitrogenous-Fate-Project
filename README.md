@@ -49,7 +49,7 @@ Future versions of this tool may include the following:
 ├── results
 ├── nfex
 │   ├── notebooks
-│   └── test
+│   └── tests
 ├── LICENSE
 ├── README.md
 └── environment.yml
