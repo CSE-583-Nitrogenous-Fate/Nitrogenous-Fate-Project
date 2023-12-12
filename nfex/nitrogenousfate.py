@@ -51,7 +51,7 @@ merged_areas
 import re
 import sys
 import pandas as pd  # pylint: disable=E0401
-from pandas.api.types import is_numeric_dtype
+from pandas.api.types import is_numeric_dtype  # pylint: disable=E0401
 
 def process_csv(csv_file):
     """
@@ -91,6 +91,14 @@ def process_csv(csv_file):
 
     Raises
     ------
+    EmptyFileError
+        when the csv file contains no data.
+    FileNoteFoundError
+        when the csv file cannot be found.
+    ValueError
+        when an exception is raised due to incorrect data type,
+        'Retention Time', 'Area', 'Background', or 'Height' is
+        not numeric.
     """
 
     try:
@@ -104,32 +112,34 @@ def process_csv(csv_file):
         raise ValueError("The data in the CSV file is incorrect.")
 
     if not is_numeric_dtype(transition_list['Retention Time']):
-        raise ValueError("Retention Time in transition list should be numeric.")
+        raise ValueError(
+              "Retention Time in transition list should be numeric.")
 
     if not is_numeric_dtype(transition_list['Area']):
         raise ValueError("Area in transition list should be numeric.")
 
     if not is_numeric_dtype(transition_list['Background']):
-        raise ValueError("Retention time in transition list should be numeric.")
+        raise ValueError(
+              "Retention time in transition list should be numeric.")
 
     if not is_numeric_dtype(transition_list['Height']):
         raise ValueError("Height in transition list should be numeric.")
 
     clean_areas = transition_list[['Replicate Name',
-                                       'Precursor Ion Name',
-                                       'Area']] \
-            .rename(columns={'Replicate Name': 'filename',
-                             'Precursor Ion Name': 'compound_name',
-                             'Area': 'area'})
+                                   'Precursor Ion Name',
+                                   'Area']] \
+        .rename(columns={'Replicate Name': 'filename',
+                         'Precursor Ion Name': 'compound_name',
+                         'Area': 'area'})
 
     clean_areas['cmpd_type'] = clean_areas['compound_name'].apply(lambda x:
                                    'IS' if re.search('A', x) else 'Non-IS')
 
     clean_areas['area'] = pd.to_numeric(clean_areas['area'],
-                                            errors='coerce')
+                                        errors='coerce')
 
     clean_areas['samp_type'] = clean_areas['filename'].apply(lambda x:
-                                   re.search(r'Poo|Blk|Smp|Std', x).group()
+                               re.search(r'Poo|Blk|Smp|Std', x).group()
                                    if re.search(r'Poo|Blk|Smp|Std',
                                                 x) else None)
 
@@ -144,7 +154,7 @@ def process_csv(csv_file):
     is_list = clean_areas[clean_areas['cmpd_type'] == "IS"]
 
     is_list = is_list.rename(columns={"compound_name": "compound_name_IS",
-                                          "area": "area_IS"})
+                                      "area": "area_IS"})
 
     is_list = is_list[['filename', 'compound_name_IS', 'area_IS']]
 
@@ -157,9 +167,9 @@ def process_csv(csv_file):
     # Perform left join with filtered areas again
     merged_areas = pd.merge(filtered_areas,
                             is_list[['filename',
-                                         'compound_name_IS',
-                                         'area_IS']],
-                                on=['filename'], how='left')
+                                     'compound_name_IS',
+                                     'area_IS']],
+                            on=['filename'], how='left')
 
     merged_areas['bmis_area'] = merged_areas[
                                     'area'] / merged_areas['area_IS']
