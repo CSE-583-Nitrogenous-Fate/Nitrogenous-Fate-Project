@@ -45,6 +45,7 @@ Future versions of this tool may include the following:
  ```
 .
 ├── data_raw
+├── demo
 ├── doc
 ├── results
 ├── nfex
