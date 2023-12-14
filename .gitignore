@@ -161,3 +161,6 @@ cython_debug/
 
 # Removes R history file 
 * .Rhistory
+
+# Removes DS store files
+.DS_Store
