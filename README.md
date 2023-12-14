@@ -85,7 +85,7 @@ The NitrogenousFate contains two specific scripts that each contain functions fo
 
 Before beginning, ensure that you have installed the NitrogenousFate, and completed the following steps: 
 1. Place your data into `data_raw`, ensure it is a CSV file. 
-2. Run the nfex program (/nfex/nitrogenousfate.py) to calculate BMISED.
+2. Run the nfex program (/nfex/nitrogenousfate.py) to calculate BMISED. Output results will be in the Results folder.
     `python nitrogenousfate.py /data_raw/*.csv`
 3. Run the Jupyter Notebook (/nfex/visualization.ipynb) to make data visualizations.
     `jupyter notebook visualization.ipnyb`
